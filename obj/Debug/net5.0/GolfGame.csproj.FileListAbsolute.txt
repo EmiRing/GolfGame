@@ -1,0 +1,16 @@
+D:\Programming\Uppgifter\GolfGame\obj\Debug\net5.0\GolfGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Uppgifter\GolfGame\obj\Debug\net5.0\GolfGame.AssemblyInfoInputs.cache
+D:\Programming\Uppgifter\GolfGame\obj\Debug\net5.0\GolfGame.AssemblyInfo.cs
+D:\Programming\Uppgifter\GolfGame\obj\Debug\net5.0\GolfGame.csproj.CoreCompileInputs.cache
+D:\Programming\Uppgifter\GolfGame\bin\Debug\net5.0\GolfGame.exe
+D:\Programming\Uppgifter\GolfGame\bin\Debug\net5.0\GolfGame.deps.json
+D:\Programming\Uppgifter\GolfGame\bin\Debug\net5.0\GolfGame.runtimeconfig.json
+D:\Programming\Uppgifter\GolfGame\bin\Debug\net5.0\GolfGame.runtimeconfig.dev.json
+D:\Programming\Uppgifter\GolfGame\bin\Debug\net5.0\GolfGame.dll
+D:\Programming\Uppgifter\GolfGame\bin\Debug\net5.0\ref\GolfGame.dll
+D:\Programming\Uppgifter\GolfGame\bin\Debug\net5.0\GolfGame.pdb
+D:\Programming\Uppgifter\GolfGame\obj\Debug\net5.0\GolfGame.dll
+D:\Programming\Uppgifter\GolfGame\obj\Debug\net5.0\ref\GolfGame.dll
+D:\Programming\Uppgifter\GolfGame\obj\Debug\net5.0\GolfGame.pdb
+D:\Programming\Uppgifter\GolfGame\obj\Debug\net5.0\GolfGame.genruntimeconfig.cache
+D:\Programming\Uppgifter\GolfGame\obj\Debug\net5.0\GolfGame.csprojAssemblyReference.cache
