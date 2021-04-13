@@ -29,7 +29,7 @@ namespace GolfGame
             int numberofStrikes = 0;
             double distanceToHole = Math.Abs(HolePosition - position);
 
-            while (distanceToHole >= 1)
+            while (distanceToHole >= 0.5)
             {
                 numberofStrikes++;
                 
